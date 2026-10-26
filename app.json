@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "DecisionReady",
+    "slug": "decisionready",
+    "version": "1.0.0",
+    "icon": "./assets/decisionimage.png",
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/decisionimage.png",
+        "backgroundColor": "#0B1F3A"
+      }
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
